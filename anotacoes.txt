@@ -6,3 +6,133 @@ npm i -g create-react-app@1.5.2
 
 ******CRIAR PRIMEIRA APLICAÇÃO *******
 create-react-app react-app  --> após comando fica o nome da aplicação
+DEU ESTES ERROS ---- MAS TENTEI CORRIGIR
+A template was not provided. This is likely because you're using an outdated version of create-react-app.
+Please note that global installs of create-react-app are no longer supported.
+You can fix this by running npm uninstall -g create-react-app or yarn global remove create-react-app before using create-react-app again.
+@joseivangeraldo ➜ /workspaces/React_JS (main) $ npm uninstall -g create-react-app   
+
+npm install -g expo-cli
+mkdir fcc
+@joseivangeraldo ➜ /workspaces/React_JS/fcc (main) $ npx create-expo-app WheaterApp
+Need to install the following packages:
+  create-expo-app@1.3.3
+
+  @joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ cd ..
+@joseivangeraldo ➜ /workspaces/React_JS/fcc (main) $ cd ..
+@joseivangeraldo ➜ /workspaces/React_JS (main) $ cd fcc/
+@joseivangeraldo ➜ /workspaces/React_JS/fcc (main) $ cd WheaterApp
+@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ expo init WheaterApp
+WARNING: The legacy expo-cli does not support Node +17. Migrate to the versioned Expo CLI (npx expo).
+
+Migrate to using:
+› npx create-expo-app --template
+
+✖ Choose a template: › blank               a minimal app as clean as an empty canvas
+@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ npx create-expo-app --template
+✔ Choose a template: › Blank (TypeScript)
+✔ What is your app named? … my-app
+✔ Downloaded and extracted project files.
+> npm install
+npm WARN deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm WARN deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uglify-es@3.3.9: support for ECMAScript is superseded by `uglify-js` as of v3.13.0
+
+added 1221 packages, and audited 1222 packages in 37s
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+14 vulnerabilities (9 moderate, 5 high)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+
+✅ Your project is ready!
+
+To run your project, navigate to the directory and run one of the following npm commands.
+
+- cd my-app
+- npm run android
+- npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+- npm run web
+@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ expo init WheaterApp/
+WARNING: The legacy expo-cli does not support Node +17. Migrate to the versioned Expo CLI (npx expo).
+
+Migrate to using:
+› npx create-expo-app --template
+
+✔ Choose a template: › blank               a minimal app as clean as an empty canvas
+✔ Downloaded template.
+📦 Using npm to install packages.
+✔ Installed JavaScript dependencies.
+
+✅ Your project is ready!
+
+To run your project, navigate to the directory and run one of the following npm commands.
+
+- cd WheaterApp
+- npm start # you can open iOS, Android, or web from here, or run them directly with the commands below.
+- npm run android
+- npm run ios # requires an iOS device or macOS for access to an iOS simulator
+- npm run web
+Project is already inside of a git repo, skipping git init.
+@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ expo login
+WARNING: The legacy expo-cli does not support Node +17. Migrate to the versioned Expo CLI (npx expo).
+✔ Username/Email Address: … ivan.geraldo@gmail.com
+✔ Password: … ***********
+
+Success. You are now logged in as joseivangeraldo.
+@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ expo start --tunnel
+WARNING: The legacy expo-cli does not support Node +17. Migrate to the versioned Expo CLI (npx expo).
+
+This command is being executed with the global Expo CLI. Learn more.
+To use the local CLI instead (recommended in SDK 46 and higher), run:
+› npx expo start
+
+Starting project at /workspaces/React_JS/fcc/WheaterApp
+✔ It looks like you're trying to use TypeScript but don't have the required dependencies installed. Would you like to install typescript, @types/react,
+@types/react-native? … yes
+
+⠧ Installing typescript@^4.9.4, @types/react@~18.0.27, @types/react-native
+✔ Installed typescript@^4.9.4, @types/react@~18.0.27, @types/react-native
+
+TypeScript: A tsconfig.json has been auto-generated
+
+Starting Metro Bundler
+✔ The package @expo/ngrok@^4.1.0 is required to use tunnels, would you like to install it globally? … yes
+Installing @expo/ngrok@^4.1.0 for tunnel support...
+metro-file-map: Haste module naming collision: wheaterapp
+  The following files share their name; please adjust your hasteImpl:
+    * <rootDir>/package.json
+    * <rootDir>/WheaterApp/package.json
+
+Failed to construct transformer:  DuplicateError: Duplicated files or mocks. Please check the console for more info
+    at setModule (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro-file-map/src/index.js:510:17)
+    at workerReply (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro-file-map/src/index.js:570:9)
+    at async Promise.all (index 5)
+    at /workspaces/React_JS/fcc/WheaterApp/node_modules/metro-file-map/src/index.js:344:18
+    at DependencyGraph.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/node-haste/DependencyGraph.js:99:5)
+    at Bundler.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/Bundler.js:69:5)
+    at IncrementalBundler.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/IncrementalBundler.js:287:5)
+    at Server.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/Server.js:1206:5) {
+  mockPath1: 'package.json',
+  mockPath2: 'WheaterApp/package.json'
+}
+Unrecognized event: {"type":"transformer_load_failed","error":{"mockPath1":"package.json","mockPath2":"WheaterApp/package.json","name":"Error","message":"Duplicated files or mocks. Please check the console for more info","stack":"Error: Duplicated files or mocks. Please check the console for more info\n    at setModule (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro-file-map/src/index.js:510:17)\n    at workerReply (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro-file-map/src/index.js:570:9)\n    at async Promise.all (index 5)\n    at /workspaces/React_JS/fcc/WheaterApp/node_modules/metro-file-map/src/index.js:344:18\n    at DependencyGraph.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/node-haste/DependencyGraph.js:99:5)\n    at Bundler.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/Bundler.js:69:5)\n    at IncrementalBundler.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/IncrementalBundler.js:287:5)\n    at Server.ready (/workspaces/React_JS/fcc/WheaterApp/node_modules/metro/src/Server.js:1206:5)"}}
+Started Metro Bundler
+Successfully installed @expo/ngrok@^4.1.0
+Successfully ran `adb reverse`. Localhost URLs should work on the connected Android device.
+Using legacy dev server: false
+Tunnel connected.
+Tunnel ready.
