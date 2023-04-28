@@ -17,11 +17,17 @@ adb devices
 
 ###########################################
 
-npm install -g expo-cli
+npm install -g expo-cli  ##Instala expo-cli no sistema o g quer dizer que é global
 
 npx create-expo-app AwesomeProject
 expo login
 expo start --tunnel
+
+<View/>
+<Text/>
+<Button/>
+<TextInput/>
+<Image/>
 
 
 @joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ ruby -v
