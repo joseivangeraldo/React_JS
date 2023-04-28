@@ -1,0 +1,8 @@
+Se não tiver node na maquina:
+npm i -g create-react-app@1.5.2
+
+**Install Simple React Snippets By:Burke Holland
+**Prettier - Code formatter 
+
+******CRIAR PRIMEIRA APLICAÇÃO *******
+create-react-app react-app  --> após comando fica o nome da aplicação
