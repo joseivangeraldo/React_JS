@@ -136,3 +136,5 @@ Successfully ran `adb reverse`. Localhost URLs should work on the connected Andr
 Using legacy dev server: false
 Tunnel connected.
 Tunnel ready.
+
+@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ ruby -v
