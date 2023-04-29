@@ -29,5 +29,4 @@ expo start --tunnel
 <TextInput/>
 <Image/>
 
-
-@joseivangeraldo ➜ /workspaces/React_JS/fcc/WheaterApp (main) $ ruby -v
+Flexbox Adequa a melhor encaixe e visualização na tela,contorola quanto o container vai ocupar de espaço.
