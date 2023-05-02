@@ -35,14 +35,15 @@ export default function App() {
         <Button title="Add Goal" onPress={addGoalHandler} />
       </View>
 
-      <View></View>
-      <ScrollView style={styles.goalsContainer}>
-        {courseGoals.map((goal) => (
-          <Text style={styles.goalItem} key={goal}>
-            {goal}
-          </Text>
-        ))}
-      </ScrollView>
+      <View style={styles.goalsContainer}>
+        <ScrollView>
+          {courseGoals.map((goal) => (
+            <Text style={styles.goalItem} key={goal}>
+              {goal}
+            </Text>
+          ))}
+        </ScrollView>
+      </View>
     </View>
   );
 }

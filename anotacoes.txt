@@ -5,11 +5,6 @@ npm i -g create-react-app@1.5.2
 **Prettier - Code formatter 
 
 ******CRIAR PRIMEIRA APLICAÇÃO *******
-28/04/2023
-npx reative-native init AwesomeProject
-npx reactive-native start 
-npx reative-native run
-
 Para rodara no celular plugado:
 adb -s <device name> reverse tcp:8081 tcp:8081
 TO FIND DEVICE NAME RUNNING THE FOLLOWING COMMAND:
