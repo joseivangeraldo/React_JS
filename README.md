@@ -3,7 +3,7 @@
 ### Recursos Necessarios
 
 * [Expo go:](https://hub.docker.com/)
-* [Reactive Native:](https://hub.docker.com/_/httpd)
+* [Reactive Native:](https://reactnative.dev/)
 * [Type Script:](https://hub.docker.com/_/mysql)
 * [Documentação PHP:](https://www.php.net)
 * [PHPMyadmin Docker imagem oficial:](https://hub.docker.com/_/phpmyadmin)
