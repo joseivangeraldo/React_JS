@@ -1,10 +1,10 @@
-## LAMP Server Apache: Montado em um Docker Container
+## App android, feito com Reactive Native
 
 ### Recursos Necessarios
 
-* [Docker Hub:](https://hub.docker.com/)
-* [Apache Docker Imagem oficial:](https://hub.docker.com/_/httpd)
-* [Mysql Docker imagem oficial:](https://hub.docker.com/_/mysql)
+* [Expo go:](https://hub.docker.com/)
+* [Reactive Native:](https://hub.docker.com/_/httpd)
+* [Type Script:](https://hub.docker.com/_/mysql)
 * [Documentação PHP:](https://www.php.net)
 * [PHPMyadmin Docker imagem oficial:](https://hub.docker.com/_/phpmyadmin)
 
