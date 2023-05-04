@@ -4,7 +4,7 @@
 
 * [Expo go:](https://hub.docker.com/)
 * [Reactive Native:](https://reactnative.dev/)
-* [Type Script:](https://hub.docker.com/_/mysql)
+* [Type Script:](https://www.typescriptlang.org/docs/)
 * [Documentação PHP:](https://www.php.net)
 * [PHPMyadmin Docker imagem oficial:](https://hub.docker.com/_/phpmyadmin)
 
