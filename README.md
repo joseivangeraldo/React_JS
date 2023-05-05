@@ -35,18 +35,15 @@ $ ls
 
 depois entrar nesta pasta:
 ```
-$ cd meu projeto
+$ cd meuprojeto
 ```
 
 Então vamos logar no server do Expo:
 ```
-$ code docker-compose.yml
+$ expo login
 ```
 
-criação e edição é só digitar:
-```
-$ code docker-compose.yml
-```
+Ao final do carregamento sera exibido uma tela parecida com esta:
 
 Obs: este comando seria diferente em uma maquina real, sem ser na nuvem, mas como o nosso hardware é remoto, é este comando.
 
