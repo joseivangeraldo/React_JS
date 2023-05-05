@@ -34,7 +34,6 @@ precisamos somente instalar o Expo, para visualizar os códigos no aparelho celu
  Instalação Expo, para visualizar no device.
 Obs: Estes exemplos foram formulados totalmente em um ambiente computacional dentro da nuvem. Particulamente no codespace do Github e Gitpod. Na atualidade são as melhores plataformas para isto, balanceando os custos e beneficios. Se você não conhece ou não sabe como acessa-los, [clique aqui.](https://docs.github.com/en/codespaces/developing-in-codespaces/opening-an-existing-codespace/)
 
-No codespace abra um terminal ou teclas use <kbd>Ctrl</kbd> + <kbd>'</kbd> 
 Instalar o expo:
 
 ```shell
