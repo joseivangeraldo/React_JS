@@ -2,7 +2,8 @@
 
 ### Recursos Necessarios
 
-* [Expo go:](https://hub.docker.com/)
+* [Expo go:](https://expo.dev/)
+* [Node js:](https://expo.dev/)
 * [Reactive Native:](https://reactnative.dev/)
 * [Type Script:](https://www.typescriptlang.org/docs/)
 * [Documentação PHP:](https://www.php.net)
