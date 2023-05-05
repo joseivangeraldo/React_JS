@@ -42,13 +42,17 @@ $ npm install -g expo-cli
 
 - Criar um projeto básico:
 ```shell
-npx create-expo-app NomeDoMeuProjeto
+npx create-expo-app meuprojeto
 ```
 
-Vai ser compilado e gerado todo o ambiente, e será criado uma nova pasta com o nome do projeto:
+Vai ser compilado e gerado todo o ambiente, e será criado uma nova pasta com o nome do projeto, neste tutorial, 'meuprojeto'. Digite para comprovar:
 
 ```
-REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+$ ls
+```
+A seguir entre neste diretório:
+```
+$ cd meuprojeto
 ```
 
 Após crie a pasta de trabalho:
