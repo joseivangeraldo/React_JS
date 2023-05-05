@@ -44,6 +44,7 @@ $ expo login
 ```
 
 Ao final do carregamento sera exibido uma tela parecida com esta:
+![Imagem QRCODE Expo](#enderecodaimagem)
 
 Obs: este comando seria diferente em uma maquina real, sem ser na nuvem, mas como o nosso hardware é remoto, é este comando.
 
