@@ -1148,49 +1148,7 @@ Escrever o README português ou inglês? Depende do objetivo do projeto, se for 
 
 Se estiver começando no mundo da programação e não sabe inglês, faça em português mesmo, esse é o seu momento, mas estude inglês.
 
-Dá para escrever em outros idiomas também, mas ai você pode pedir colaboração para isso, claro! Pode ter um README-en.md, ou seja internacionalizar o README e fornecer os links no README principal.
-
-Se o projeto for algum portfólio para mostrar para alguma empresa aqui no Brasil pode ser em português mesmo. Depende do foco, momento e objetivo do projeto.
-
-🎁 Template
-Utilize esse template que preparamos para você construir o seu README. 💝
-
-Em português e com banner 🇧🇷
-Em português sem logo 🇧🇷
-Em inglês sem emojis 🇺🇸
-Para copiar a estrutura do README você tem que clicar no arquivo README.md e depois clicar na opção RAW, selecionar tudo, copiar e colar no seu editor preferido que suporte HTML e Markdown.
-
-🔗 Links de README inspiradores:
-https://github.com/ant-design/ant-design
-https://github.com/animavita/animavita
-https://github.com/iterative/cml
-https://github.com/danileao/rocketmusic
-https://github.com/gatsbyjs/gatsby
-https://github.com/x0n4d0/ecoleta
-https://github.com/tgmarinho/meetapp
-https://github.com/steniowagner/mindCast
-https://github.com/fastify/fastify
-https://github.com/invertase/react-native-firebase
-https://github.com/JedWatson/react-select
-https://github.com/fkhadra/react-toastify
-https://github.com/facebook/react-native
-https://github.com/tgmarinho/Ecoleta
-https://github.com/othneildrew/Best-README-Template
-➕ Mais sobre o assunto e outros aspectos interessantes:
-https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9#template
-https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509#estrutura-do-readme
-https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8
-https://github.com/RichardLitt/standard-readme/blob/master/spec.md
-https://github.com/TautvydasDerzinskas/sass-ultimate-boilerplate
-https://tom.preston-werner.com/2010/08/23/readme-driven-development.html
-https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project
-https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/
-https://github.com/noffle/art-of-readme/blob/master/README-pt-BR.md
-https://github.com/matiassingers/awesome-readme
-https://developers.google.com/tech-writing
-https://github.com/matiassingers/awesome-readme
-https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/
-Posta aí nos comentários o seu README bonitão :)
+Dá para escrever em outros idiomas também, mas ai você pode pedir colaboração para isso, claro! Pode ter um README-en.md, ou seja internacionalizar o README 
 
 
 
