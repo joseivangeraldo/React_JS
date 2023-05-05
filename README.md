@@ -11,22 +11,11 @@
 
 <a name="ancora"></a>
 # Indice 
-- [Tecnologia](#tecnologia)
 - [Instação do Ambiente](#instalacao)
 - [Acrescentar editar arquivos](#acrescentareditar)
 - [Mizukage](#ancora4)
 - [Raikage](#ancora5)
 - [Tsuchikage](#ancora)
-
-### <a id="tecnologia"> 🛠 Tecnologias</a>
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Apache](https://httpd.apache.org/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html/)
-- [HTML](https://www.w3.org/html/)
-- [Visual Studio](https://expo.io](https://code.visualstudio.com/docs)/)
->[Topo](#ancora)
 
 ## <a id="instalacao">🔨 Instalação do Ambiente</a>
 O codespace já vem com a maioria das ferramentas que precisamos. Já possui instalado o reactive native, e o nodejs, se precisar trabalhar com uma versão  mais atualizada, é só  fazer um update.
