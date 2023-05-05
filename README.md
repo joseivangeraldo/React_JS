@@ -44,7 +44,7 @@ $ expo login
 ```
 
 Ao final do carregamento sera exibido uma tela parecida com esta:
-![Imagem QRCODE Expo](#enderecodaimagem)
+![Imagem QRCODE Expo](/workspaces/React_JS/images/QRCODE_expo_go.png)
 
 Pode ser então acessado pelos meios que estão  descritos, conforme imagem acima. O mais como é escanear o QRCode. Fazendo isto será carregado a parte do app.js como aplicativo Android. Com isto todas alterações  que forem feitas no arquivo app.js serão  concretizadas na tela do celular.
 
