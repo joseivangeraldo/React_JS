@@ -44,6 +44,42 @@ $ expo login
 ```
 
 Ao final do carregamento sera exibido uma tela parecida com esta:
+```
+Successfully ran `adb reverse`. Localhost URLs should work on the connected Android device.
+Using legacy dev server: false
+Started Metro Bundler
+Tunnel connected.
+Tunnel ready.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄▄ ▄███ ▀ ▄▄█ ▄▄▄▄▄ █
+█ █   █ █ ▀▄▀█ ▄  ▀▄█▄█ █   █ █
+█ █▄▄▄█ █▄ ███▄ ▄  ▄ ██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄█▄█ ▀▄▀▄▀▄█▄▄▄▄▄▄▄█
+█▄   ██▄▀▄▀█  █▄█▀▄ ▀▀ ▀█ ▄ █ █
+█ █    ▄█▄██▄▀▀▀█▄▄▀▀█▄▄▀▀▀██▀█
+█ ▄▀█▀▀▄▀ ▄▀█▀ ▄  ▄█▀██▀██▀▄ ▀█
+█▀ █ ▄█▄▄▄ ▄▀ ▄██▀█  ▀▀▀███▄ ▄█
+█▄ ▀  █▄▀  █ ▀ ▀ ██▄█▀▄█ ▄█▀▀▄█
+█▄█▀▄█ ▄ ▄█ ▀▀█▀ ▄▀██ ▀ ▄█  ▀██
+██▄█▄▄█▄▄▀ ▄▀█▀██   █ ▄▄▄ ▄   █
+█ ▄▄▄▄▄ ██▀▀ █ █▀██ ▄ █▄█ ██ ██
+█ █   █ █▀█ █▀▄ ▀▀▄▄▀  ▄▄    ▀█
+█ █▄▄▄█ █ ▀ █ ▄▄█▄▄ █▀ █▀▀█▄▀▄█
+█▄▄▄▄▄▄▄█▄▄███▄██▄█▄▄▄▄▄█▄██▄██
+
+› Metro waiting on exp://jw-7hm.joseivangeraldo.rncourse.exp.direct:80
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press r │ reload app
+› Press m │ toggle menu
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. 
+```
 ![Imagem QRCODE Expo](#enderecodaimagem)
 
 Pode ser então acessado pelos meios que estão  descritos, conforme imagem acima. O mais como é escanear o QRCode. Fazendo isto será carregado a parte do app.js como aplicativo Android. Com isto todas alterações  que forem feitas no arquivo app.js serão  concretizadas na tela do celular.
