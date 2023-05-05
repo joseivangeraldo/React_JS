@@ -47,6 +47,18 @@ $ npm install -g expo-cli
 npx create-expo-app meuprojeto
 ```
 
+* Vai ser criada uma nova pasta com o nome meuprojeto, vamos comprovar:
+
+```
+$ ls
+```
+- Após entramos nesta pasta:
+
+```
+$ cd meuprojeto
+```
+
+
 Criar uma página chamada index.html básica dentro deste diretório, para verificar que ocorreu uma instalação perfeita.
 Segue um modelo básico abaixo:
 ```html
