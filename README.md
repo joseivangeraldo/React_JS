@@ -36,10 +36,11 @@ Obs: Estes exemplos foram formulados totalmente em um ambiente computacional den
 No codespace abra um terminal ou teclas use <kbd>Ctrl</kbd> + <kbd>'</kbd> 
 Instalar o expo:
 ```shell
-$ npm install -g expo-cli 
+$ npm install -g expo-cli
+``` 
 
 - Criar um projeto básico:
-```
+```shell
 npx create-expo-app NomeDoMeuProjeto
 ```
 
