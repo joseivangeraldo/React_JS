@@ -58,6 +58,9 @@ $ ls
 $ cd meuprojeto
 ```
 
+A seguir vai ser necessário  ter uma conta no servidor Expo, se não possuir,
+[Crie aqui:](https://expo.dev/)
+
 
 Criar uma página chamada index.html básica dentro deste diretório, para verificar que ocorreu uma instalação perfeita.
 Segue um modelo básico abaixo:
