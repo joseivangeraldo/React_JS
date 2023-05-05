@@ -35,8 +35,12 @@ No codespace abra um terminal ou teclas use <kbd>Ctrl</kbd> + <kbd>'</kbd>
 Instalar o expo:
 ```shell
 $ npm install -g expo-cli 
+
+- Criar um projeto básico:
 ```
-Se não tiver nenhuma imagem docker será mostrado uma tabela vazia:
+npx create-expo-app NomeDoMeuProjeto
+```
+Vai ser compilado e gerado todo o ambiente, e será criado uma nova pasta com o nome do projeto:
 ```
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
 ```
