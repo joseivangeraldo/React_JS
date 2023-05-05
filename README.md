@@ -42,7 +42,9 @@ $ npm install -g expo-cli
 ```
 npx create-expo-app NomeDoMeuProjeto
 ```
+
 Vai ser compilado e gerado todo o ambiente, e será criado uma nova pasta com o nome do projeto:
+
 ```
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
 ```
