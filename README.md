@@ -27,20 +27,20 @@ Instalar o expo:
 
 digitar:
 ```
-$ npx create-expo-app AwesomeProject
+$ npx create-expo-app meuprojeto
 ```
 
-criação e edição é só digitar:
+Vãoser feitos varios processos para compilação e montagem de ambiente, vai ser criada uma pasta com o mesmo nome do seu projeto, comprovando abaixo:
 ```
-$ code docker-compose.yml
-```
-
-criação e edição é só digitar:
-```
-$ code docker-compose.yml
+$ ls 
 ```
 
-criação e edição é só digitar:
+depois entrar nesta pasta:
+```
+$ cd meu projeto
+```
+
+Então vamos logar no server do Expo:
 ```
 $ code docker-compose.yml
 ```
