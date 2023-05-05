@@ -61,6 +61,17 @@ $ cd meuprojeto
 A seguir vai ser necessário  ter uma conta no servidor Expo, se não possuir,
 [Crie aqui:](https://expo.dev/)
 
+Então é só fazer o login no servidor via console:
+```
+$ expo login 
+```
+
+Após é só digitar:
+```
+$ expo start --tunnel
+```
+Obs: este comando seria diferente em uma maquina real, sem ser na nuvem, mas como o nosso hardware é remoto, é este comando.
+
 
 Criar uma página chamada index.html básica dentro deste diretório, para verificar que ocorreu uma instalação perfeita.
 Segue um modelo básico abaixo:
