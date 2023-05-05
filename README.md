@@ -25,9 +25,9 @@ Obs: Estes exemplos foram formulados totalmente em um ambiente computacional den
 
 Instalar o expo:
 
-criação e edição é só digitar:
+digitar:
 ```
-$ code docker-compose.yml
+$ npx create-expo-app AwesomeProject
 ```
 
 criação e edição é só digitar:
