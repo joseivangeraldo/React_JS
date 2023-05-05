@@ -36,6 +36,21 @@ Obs: Estes exemplos foram formulados totalmente em um ambiente computacional den
 
 Instalar o expo:
 
+criação e edição é só digitar:
+```
+$ code docker-compose.yml
+```
+
+criação e edição é só digitar:
+```
+$ code docker-compose.yml
+```
+
+criação e edição é só digitar:
+```
+$ code docker-compose.yml
+```
+
 Obs: este comando seria diferente em uma maquina real, sem ser na nuvem, mas como o nosso hardware é remoto, é este comando.
 
 
