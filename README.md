@@ -36,42 +36,6 @@ Obs: Estes exemplos foram formulados totalmente em um ambiente computacional den
 
 Instalar o expo:
 
-```shell
-$ npm install -g expo-cli
-``` 
-
-- Criar um projeto básico:
-
-```shell
-npx create-expo-app meuprojeto
-```
-
-Vai ser criada uma nova pasta com o nome meuprojeto, vamos comprovar:
-
-```
-$ ls
-```
-Após entramos nesta pasta:
-
-```
-$ cd meuprojeto
-```
-
-A seguir vai ser necessário  ter uma conta no servidor Expo, se não possuir,
-[Crie aqui:](https://expo.dev/)
-
-Então é só fazer o login no servidor via console:
-
-```
-$ expo login 
-```
-
-Após é só digitar:
-
-```
-$ expo start --tunnel
-```
-
 Obs: este comando seria diferente em uma maquina real, sem ser na nuvem, mas como o nosso hardware é remoto, é este comando.
 
 
