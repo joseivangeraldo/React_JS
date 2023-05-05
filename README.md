@@ -23,19 +23,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Apache](https://httpd.apache.org/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html/)
-- [Docker](https://www.docker.com/)
-- [Docker Hub](https://hub.docker.com/)
 - [HTML](https://www.w3.org/html/)
-- [MySql](https://www.mysql.com/)
 - [Visual Studio](https://expo.io](https://code.visualstudio.com/docs)/)
 >[Topo](#ancora)
 
 ## <a id="instalacao">🔨 Instalação do Ambiente</a>
- Instalação Imagem Docker:
+ Instalação Expo, para visualizar no device.
 Obs: Estes exemplos foram formulados totalmente em um ambiente computacional dentro da nuvem. Particulamente no codespace do Github e Gitpod. Na atualidade são as melhores plataformas para isto, balanceando os custos e beneficios. Se você não conhece ou não sabe como acessa-los, [clique aqui.](https://docs.github.com/en/codespaces/developing-in-codespaces/opening-an-existing-codespace/)
 
 No codespace abra um terminal ou teclas use <kbd>Ctrl</kbd> + <kbd>'</kbd> 
-Vamos ver antes se existem imagens criadas, só para verificar
+Vamos então instalar o expo:
 ```
 $ docker images
 ```
