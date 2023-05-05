@@ -51,6 +51,16 @@ criação e edição é só digitar:
 $ code docker-compose.yml
 ```
 
+criação e edição é só digitar:
+```
+$ code docker-compose.yml
+```
+
+criação e edição é só digitar:
+```
+$ code docker-compose.yml
+```
+
 Obs: este comando seria diferente em uma maquina real, sem ser na nuvem, mas como o nosso hardware é remoto, é este comando.
 
 
