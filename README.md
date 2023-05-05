@@ -36,11 +36,13 @@ Obs: Estes exemplos foram formulados totalmente em um ambiente computacional den
 
 No codespace abra um terminal ou teclas use <kbd>Ctrl</kbd> + <kbd>'</kbd> 
 Instalar o expo:
+
 ```shell
 $ npm install -g expo-cli
 ``` 
 
 - Criar um projeto básico:
+
 ```shell
 npx create-expo-app meuprojeto
 ```
@@ -50,18 +52,22 @@ Vai ser compilado e gerado todo o ambiente, e será criado uma nova pasta com o 
 ```
 $ ls
 ```
+
 A seguir entre neste diretório:
+
 ```
 $ cd meuprojeto
 ```
 
 Após crie a pasta de trabalho:
+
 ```
 $ mkdir LampServer
 ```
 O nome do diretório pode ser este ou qualquer outro de sua preferência.
 
 Depois entre dentro deste diretório:
+
 ```
 $ cd LampServer
 ```
