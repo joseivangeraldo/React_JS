@@ -47,30 +47,6 @@ $ npm install -g expo-cli
 npx create-expo-app meuprojeto
 ```
 
-Vai ser compilado e gerado todo o ambiente, e será criado uma nova pasta com o nome do projeto, neste tutorial, 'meuprojeto'. Digite para comprovar:
-
-```
-$ ls
-```
-
-A seguir entre neste diretório:
-
-```
-$ cd meuprojeto
-```
-
-Após crie a pasta de trabalho:
-
-```
-$ mkdir LampServer
-```
-O nome do diretório pode ser este ou qualquer outro de sua preferência.
-
-Depois entre dentro deste diretório:
-
-```
-$ cd LampServer
-```
 Criar uma página chamada index.html básica dentro deste diretório, para verificar que ocorreu uma instalação perfeita.
 Segue um modelo básico abaixo:
 ```html
