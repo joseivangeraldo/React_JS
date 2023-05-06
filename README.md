@@ -936,22 +936,7 @@ Resultado:
 https://github.com/tgmarinho/Ecoleta/blob/master/assets/banner.png?raw=true
 Exemplo de como adicionar um banner com markdown:
 
-![Thiago Marinho](https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)
-
-Nesse caso estou usando algo genérico, usando uma imagem minha do banner do meu perfil no Twitter.
-
-Outra maneira:
-
-- SignUp Mobile
-
-![SignUp Mobile](screenshots/signup-mobile.png)
-
-Eu prefiro usar as tags HTML porque permitem customizar melhor, centralizar e diminuir a imagem.
-
-Se quiser arriscar com algum serviço de hospedagem tem essa opção: imgur.com, se for um gif pode usar esse aqui giphy.com.
-
-✅ Pré-requisitos e como rodar a aplicação/testes
-Status: Obrigatório
+![Thiago Marinho](https
 
 ```bash
 # Clone este repositório
