@@ -53,7 +53,7 @@ Você pode clonar este repositório, não esqueça de citar as fontes, e o códi
 
 ```bash
 # Clone este repositório
-<>
+<https://github.com/joseivangeraldo/React_JS>
 ```
 
 MIT License
