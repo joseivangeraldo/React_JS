@@ -28,7 +28,7 @@ digitar:
 $ npx create-expo-app meuprojeto
 ```
 
-Vãoser feitos varios processos para compilação e montagem de ambiente, vai ser criada uma pasta com o mesmo nome do seu projeto, comprovando abaixo:
+Vão ser feitos varios processos para compilação e montagem de ambiente, vai ser criada uma pasta com o mesmo nome do seu projeto, comprovando abaixo:
 ```
 $ ls 
 ```
@@ -44,7 +44,7 @@ $ expo login
 ```
 
 Ao final do carregamento sera exibido uma tela parecida com esta:
-![Imagem QRCODE Expo](https://github.com/joseivangeraldo/React_JS/blob/main/images/QRCODE_expo_go.png)
+![Imagem QRCODE Expo](https://github.com/joseivangeraldo/React_JS/blob/main/images/QRCODE_expo_go.png/)
 
 Pode ser então acessado pelos meios que estão  descritos, conforme imagem acima. O mais como é escanear o QRCode. Fazendo isto será carregado a parte do app.js como aplicativo Android. Com isto todas alterações  que forem feitas no arquivo app.js serão  concretizadas na tela do celular.
 
