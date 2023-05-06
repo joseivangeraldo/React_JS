@@ -32,17 +32,14 @@ Vão ser feitos varios processos para compilação e montagem de ambiente, vai s
 ```
 $ ls 
 ```
-
 depois entrar nesta pasta:
 ```
 $ cd meuprojeto
 ```
-
 Então vamos logar no server do Expo:
 ```
 $ expo login
 ```
-
 Ao final do carregamento sera exibido uma tela parecida com esta:
 ![Imagem QRCODE Expo](https://github.com/joseivangeraldo/React_JS/blob/main/images/QRCODE_expo_go.png/)
 
