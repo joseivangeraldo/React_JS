@@ -25,20 +25,20 @@ Obs: Estes exemplos foram formulados totalmente em um ambiente computacional den
 Instalar o expo:
 
 digitar:
-```
+```bash
 $ npx create-expo-app meuprojeto
 ```
 
 Vão ser feitos varios processos para compilação e montagem de ambiente, vai ser criada uma pasta com o mesmo nome do seu projeto, comprovando abaixo:
-```
+```bash
 $ ls 
 ```
 depois entrar nesta pasta:
-```
+```bash
 $ cd meuprojeto
 ```
 Então vamos logar no server do Expo:
-```
+```bash
 $ expo login
 ```
 Ao final do carregamento sera exibido uma tela parecida com esta:
@@ -63,12 +63,12 @@ Segue um modelo básico abaixo:
 ```
 
 Crie um arquivo chamado docker-compose.yml. Tem de ter este nome, idêntico assim, pois se for diferente não  funcionará a geração da imagem. O Codespace GitHub e Gitpod já vem com Visual Studio configurado, então  para criação e edição é só digitar
-```
+```bash
 $ code docker-compose.yml
 ```
 
 O docker compose, que orquestrará todas as dependencias do ambiente, e montará  todas as imagens necessárias para a rodar as imagens Docker.Apache, PHP, MySql e PHPMyadmin. Sintaxe do arquivo:
-```YAML 
+```yaml 
  services: 
    db: 
      image: mysql:latest 
@@ -112,14 +112,14 @@ Tomar muito cuidado com a digitação, pois  ele necessita ser fortemente idênt
 
 
 Vamos , importante estar dentro do diretório que foi criado, e o Dockerfile estar dentro do mesmo diretório:
-```
-docker-compose build .
+```bash
+$ docker-compose build .
 ```
 Detalhe o sinal de ponto, ao final, fala que a pasta de trabalho é a propria aonde está o arquivo docker-compose.
 É colocado uma tag de identificação para melhot localização, com -t , pode ser o nome de sua preferência. 
 
 Será mostrado mensagens da evolução do processo como abaixo:
-```
+```bash
 [+] Building 1.1s (10/10) FINISHED                                                                                                         
  => [internal] load build definition from Dockerfile                                                                                  0.2s
  => => transferring dockerfile: 37B                                                                                                   0.0s
