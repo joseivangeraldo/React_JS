@@ -12,14 +12,11 @@
 # Indice 
 - [Instação do Ambiente](#instalacao)
 - [Acrescentar editar arquivos](#acrescentareditar)
-- [Mizukage](#ancora4)
-- [Raikage](#ancora5)
-- [Tsuchikage](#ancora)
 
 ## <a id="instalacao">🔨 Instalação do Ambiente</a>
 O codespace já vem com a maioria das ferramentas que precisamos. Já possui instalado o reactive native, e o nodejs, se precisar trabalhar com uma versão  mais atualizada, é só  fazer um update.
 precisamos somente instalar o Expo, para visualizar os códigos no aparelho celular.
- Instalação Expo, para visualizar no device.
+ Instalação Expo, para visualizar no dev
 Obs: Estes exemplos foram formulados totalmente em um ambiente computacional dentro da nuvem. Particulamente no codespace do Github e Gitpod. Na atualidade são as melhores plataformas para isto, balanceando os custos e beneficios. Se você não conhece ou não sabe como acessa-los, [clique aqui.](https://docs.github.com/en/codespaces/developing-in-codespaces/opening-an-existing-codespace/)
 
 Instalar o expo:
