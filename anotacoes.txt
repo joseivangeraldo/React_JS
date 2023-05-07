@@ -27,4 +27,10 @@ expo start --tunnel
 Flexbox Adequa a melhor encaixe e visualização na tela,contorola quanto o container vai ocupar de espaço.
 
 
-VERSAO 5:
+#######################React Crash Course for Beginners 2021 #############################
+##############CRIO TODO O PROJETO #############################
+npx create-react-app react-course
+
+npm ERR! A complete log of this run can be found in: /home/codespace/.npm/_logs/2023-05-07T00_58_14_941Z-debug-0.log
+@joseivangeraldo ➜ /workspaces/React_JS/react-course (main) $ npm start
+npm ERR! Missing script: "start"
