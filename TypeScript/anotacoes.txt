@@ -1,0 +1,11 @@
+ANOTAÇÕES TYPESCRIPT
+INSTALAÇAO DO AMBIENTE:
+Dependendo da versão da atualidade. pode ser encontrada a mais recente no site: https://nodejs.org/en
+
+sudo npm i -g typescript   --> i de install package e o g é de global.
+
+@joseivangeraldo ➜ /workspaces/React_JS (main) $ npm i -g typescript
+
+changed 1 package in 809ms
+ @joseivangeraldo ➜ /workspaces/React_JS (main) $ tsc -v  --> Ver a versão de TypeScript
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
