@@ -34,3 +34,124 @@ npx create-react-app react-course
 npm ERR! A complete log of this run can be found in: /home/codespace/.npm/_logs/2023-05-07T00_58_14_941Z-debug-0.log
 @joseivangeraldo ➜ /workspaces/React_JS/react-course (main) $ npm start
 npm ERR! Missing script: "start"
+
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ expo
+bash: expo: command not found
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ expo login
+bash: expo: command not found
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ npm install expo-cli
+npm WARN deprecated abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated expo-cli@6.3.10: The global Expo CLI has been superseded by 'npx expo' and eas-cli –– Learn more: https://blog.expo.dev/the-new-expo-cli-f4250d8e3421
+
+added 613 packages, and audited 1828 packages in 17s
+
+122 packages are looking for funding
+  run `npm fund` for details
+
+30 vulnerabilities (18 moderate, 12 high)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ npm install expo-cli --global
+npm WARN deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm WARN deprecated @babel/plugin-proposal-optional-catch-binding@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-catch-binding instead.
+npm WARN deprecated @babel/plugin-proposal-nullish-coalescing-operator@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-nullish-coalescing-operator instead.
+npm WARN deprecated @babel/plugin-proposal-class-properties@7.18.6: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-properties instead.
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+npm WARN deprecated @babel/plugin-proposal-optional-chaining@7.21.0: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-chaining instead.
+npm WARN deprecated @babel/plugin-proposal-async-generator-functions@7.20.7: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-async-generator-functions instead.
+npm WARN deprecated abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+npm WARN deprecated @babel/plugin-proposal-object-rest-spread@7.20.7: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-object-rest-spread instead.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated expo-cli@6.3.10: The global Expo CLI has been superseded by 'npx expo' and eas-cli –– Learn more: https://blog.expo.dev/the-new-expo-cli-f4250d8e3421
+
+added 1214 packages in 17s
+
+110 packages are looking for funding
+  run `npm fund` for details
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ expo login
+WARNING: The legacy expo-cli does not support Node +17. Migrate to the new local Expo CLI: https://blog.expo.dev/the-new-expo-cli-f4250d8e3421.
+┌───────────────────────────────────────────────────────────────────────────┐
+│                                                                           │
+│   The global expo-cli package has been deprecated.                        │
+│                                                                           │
+│   The new Expo CLI is now bundled in your project in the expo package.    │
+│   Learn more: https://blog.expo.dev/the-new-expo-cli-f4250d8e3421.        │
+│                                                                           │
+│   To use the local CLI instead (recommended in SDK 46 and higher), run:   │
+│   › npx expo <command>                                                    │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+✔ Username/Email Address: … ivan.geraldo@gmail.com
+✔ Password: … ***********
+
+Success. You are now logged in as joseivangeraldo.
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ expo start --tunnel
+WARNING: The legacy expo-cli does not support Node +17. Migrate to the new local Expo CLI: https://blog.expo.dev/the-new-expo-cli-f4250d8e3421.
+┌───────────────────────────────────────────────────────────────────────────┐
+│                                                                           │
+│   The global expo-cli package has been deprecated.                        │
+│                                                                           │
+│   The new Expo CLI is now bundled in your project in the expo package.    │
+│   Learn more: https://blog.expo.dev/the-new-expo-cli-f4250d8e3421.        │
+│                                                                           │
+│   To use the local CLI instead (recommended in SDK 46 and higher), run:   │
+│   › npx expo <command>                                                    │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+Starting project at /workspaces/React_JS/meuprojeto
+Starting Metro Bundler
+? The package @expo/ngrok@^4.1.0 is required to use tunnels, would you like to install it globally? › (Y/n)Started Metro Bundler
+✔ The package @expo/ngrok@^4.1.0 is required to use tunnels, would you like to install it globally? … yes
+Installing @expo/ngrok@^4.1.0 for tunnel support...
+Successfully installed @expo/ngrok@^4.1.0
+Successfully ran `adb reverse`. Localhost URLs should work on the connected Android device.
+Using legacy dev server: false
+Tunnel connected.
+Tunnel ready.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀██  ▄██▄▄▀██ ▄▄▄▄▄ █
+█ █   █ ██  ██ ▄▀ ▀██ █ █   █ █
+█ █▄▄▄█ ███ ▀██▀█▄▄▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ █▄▀ ▀ ▀ █ █▄█▄▄▄▄▄▄▄█
+█  █  █▄▀██▄▀▄▀ ▀▄▄▀▀██▄█▀██▀▄█
+█▄ ▄▄▀▀▄▀█▄▀ █▄▀ ▀ ▄███▄▀▀██▄▀█
+██ █ ▄▀▄▄█ ▄ ▄█  ▀▀▀▄▄█  ▀▄█  █
+█ ▀▄█ ▄▄ █▀▄▀ █ ▄ █▀ █▄█▄▀█ █ █
+█▀ ▄█▀ ▄█▀█▀▄█▄█ ▄▀▀▀▀██▄▀▀▀ ▄█
+█  ▄▄█▀▄  ▄█▄▀ █▄▀▄▀ ▀▀▀▄▄█▀▀▄█
+█▄▄▄▄▄▄▄█▀▀  ▄▀▄ █ ▀█ ▄▄▄ ▄▄█▄█
+█ ▄▄▄▄▄ ██ █ ▄█▄▄▄▀█  █▄█ ██▀▀█
+█ █   █ █ ▀█ ▄▀█  ▀ ▄  ▄ ▄▀▀▀ █
+█ █▄▄▄█ █▀▄█▀▄▄▀▄█▄▀███▀  ▄ ▄ █
+█▄▄▄▄▄▄▄█▄███▄▄▄████▄▄█▄███████
+
+› Metro waiting on exp://j2-xcc.joseivangeraldo.meuprojeto.exp.direct:80
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press r │ reload app
+› Press m │ toggle menu
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Android Bundling complete 27566ms
+Android Running app on SM-A528B
+› Stopped server
+@joseivangeraldo ➜ /workspaces/React_JS/meuprojeto (main) $ 
