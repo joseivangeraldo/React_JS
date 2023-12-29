@@ -19,6 +19,6 @@ git add .
 sleep 3
 
 # add comentarios
-git commit -m "$NOW"
+git commit -m "$NOW ' Acrescentado'"
 sleep 3
 git push
