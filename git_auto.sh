@@ -18,7 +18,7 @@ NOW=$(date +'%Y-%m-%d %H:%M:%S')
 git add .
 sleep 3
 
-# add comentarios
+# add comentarios : Noinicio vem a data, após pode-se mudar a descrição para uma da sua escolha
 git commit -m "$NOW ' Acrescentado'"
 sleep 3
 git push
